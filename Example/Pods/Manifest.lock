@@ -1,0 +1,16 @@
+PODS:
+  - MRCDownLoadManager (0.1.0)
+
+DEPENDENCIES:
+  - MRCDownLoadManager (from `../`)
+
+EXTERNAL SOURCES:
+  MRCDownLoadManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MRCDownLoadManager: 1b8735f2c223226114e27a7e14ca1c88e4ae572b
+
+PODFILE CHECKSUM: 10bac401f8424983a450095751070ab802f6178f
+
+COCOAPODS: 1.5.3

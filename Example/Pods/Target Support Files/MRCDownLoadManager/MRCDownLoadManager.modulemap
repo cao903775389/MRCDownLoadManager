@@ -1,0 +1,6 @@
+framework module MRCDownLoadManager {
+  umbrella header "MRCDownLoadManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
